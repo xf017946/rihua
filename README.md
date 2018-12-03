@@ -24,6 +24,7 @@
 <img width="350px" src="http://indust.app.rihuabiology.com/161543803901_.pic.jpg">
 
 ## 产品信息数据结构
+```html
 数据结构为一个对象  
 {
   '手术无影灯': [
@@ -80,3 +81,4 @@
     }]
   ]
 }
+```
