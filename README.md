@@ -85,12 +85,12 @@
 
 ## 图片存在七牛云好处
 免费并且可以享受cdn加速服务，提高网页图片加载速度，并且可以配置公司二级（三级也可以）域名访问图片链接
-<img width="350px" src="http://indust.app.rihuabiology.com/81543802138_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/81543802138_.pic.jpg">
 
 ## 七牛云上传图片步骤
-<img width="350px" src="http://indust.app.rihuabiology.com/31543801860_.pic.jpg">
-<img width="350px" src="http://indust.app.rihuabiology.com/41543801883_.pic.jpg">
-<img width="350px" src="http://indust.app.rihuabiology.com/41543801883_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/31543801860_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/41543801883_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/41543801883_.pic.jpg">
 <p>新建完存储空间(页面左侧)后，点击内容管理</p>
-<img width="350px" src="http://indust.app.rihuabiology.com/61543801950_.pic.jpg">
-<img width="350px" src="http://indust.app.rihuabiology.com/71543802109_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/61543801950_.pic.jpg">
+<img width="500px" src="http://indust.app.rihuabiology.com/71543802109_.pic.jpg">
