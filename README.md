@@ -2,7 +2,7 @@
 # 图片素材
 图片素材最好提供 [七牛云](https://www.qiniu.com/) 图片链接，可将图片命名整理后由我这边整理上传。企业七牛云有免费空间的话，最好注册公司的七牛云统一管理。
 
-## 网页标题以及网页图标favicon
+## 网页标题以及网页图标favicon.ico(ico文件直接提供源文件，浏览器标签栏图标)
 <img width="350px" src="http://indust.app.rihuabiology.com/101543802844_.pic.jpg">
 
 ## 网页顶部logo
